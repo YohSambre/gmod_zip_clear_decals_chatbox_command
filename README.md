@@ -1,0 +1,1 @@
+# gmod_zip_clear_decals_chatbox_command
